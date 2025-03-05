@@ -1,0 +1,62 @@
+body {
+  background-color: #e4dca1;
+  font-family: "Noto Sans", serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  font-family: "Roboto", serif;
+  font-size: 2rem;
+  color: red;
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 25px;
+  text-align: center;
+}
+
+img{
+    border: 5px solid red;
+    
+}
+
+h2 {
+  font-family: "Roboto", serif;
+  color: red;
+  text-align: center;
+  font-size: 3rem;
+}
+
+img {
+  height: 350px;
+}
+
+p {
+  font-family: "Noto Sans", serif;
+}
+
+.menu {
+  text-align: center;
+}
+
+
+
+.write_up{
+    padding: 30px;
+}
+
+footer{
+    text-align: center;
+    margin: 25px;
+}
+
+
+
+.list{
+  display: inline-block;
+  text-align: left;
+  font-size: 1.2rem;
+  font-family: "Noto Sans", serif;
+  color: black;
+
+}
